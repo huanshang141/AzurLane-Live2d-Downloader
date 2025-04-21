@@ -19,7 +19,7 @@
 ### 从可执行文件部署
 1. 打开[releases](https://github.com/huanshang141/AzurLane-Live2d-Downloader/releases)界面
 2. 点击后缀为exe的文件即可下载
-3. 下载好后双击运行，会在exe文件的统一目录下生成`download`文件，资源会先下载到里面
+3. 下载好后双击运行，会在exe文件的同一目录下生成`download`文件，资源会下载到里面
 ### 从源码部署
 #### 环境准备
 1. python 3.10+
