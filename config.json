@@ -1,0 +1,9 @@
+{
+    "download_dir": "downloads",
+    "max_workers": 5,
+    "retry_count": 3,
+    "retry_delay": 2,
+    "timeout": 30,
+    "log_level": "INFO",
+    "test_mode": false
+}
