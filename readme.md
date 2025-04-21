@@ -12,12 +12,12 @@
 ## 不足
 
 - 网站只提供webp格式的材质，无法在Live2DViewerEX中导入，暂不知道解决方法，所以使用`Pillow`库把webp格式的材质转换为png格式，而这会使得材质占据较大空间
-- 因不熟悉python的打包，release中的可执行文件只有x86-64架构的Windows版本，并且体积巨大
+- 因不熟悉python的打包，[releases](https://github.com/huanshang141/AzurLane-Live2d-Downloader/releases)中的可执行文件只有x86-64架构的Windows版本，并且体积巨大
 
 ## 部署指南
 
 ### 从可执行文件部署
-1. 打开release界面
+1. 打开[releases](https://github.com/huanshang141/AzurLane-Live2d-Downloader/releases)界面
 2. 点击后缀为exe的文件即可下载
 3. 下载好后双击运行，会在exe文件的统一目录下生成`download`文件，资源会先下载到里面
 ### 从源码部署
