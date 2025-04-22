@@ -1,0 +1,1742 @@
+{
+    "Master": [
+        {
+            "gameId": 1,
+            "gameName": "碧蓝航线",
+            "character": [
+                {
+                    "charId": 116,
+                    "charName": "莫加多尔",
+                    "live2d": [
+                        {
+                            "costumeId": 3,
+                            "costumeName": "嗅诊的护理天使",
+                            "path": "https://static.l2d.su/live2d/azurlane/mojiaduoer_3/mojiaduoer_3.model3.json"
+                        },
+                        {
+                            "costumeId": 2,
+                            "costumeName": "静谧一隅的燥热",
+                            "path": "https://static.l2d.su/live2d/azurlane/mojiaduoer_2/mojiaduoer_2.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 132,
+                    "charName": "拉斐尔",
+                    "live2d": [
+                        {
+                            "costumeId": 2,
+                            "costumeName": "爱与美的秘密珍藏",
+                            "path": "https://static.l2d.su/live2d/azurlane/lafeier_2/lafeier_2.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 131,
+                    "charName": "济安",
+                    "live2d": [
+                        {
+                            "costumeId": 3,
+                            "costumeName": "异域绮梦",
+                            "path": "https://static.l2d.su/live2d/azurlane/jian_3/jian_3.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 73,
+                    "charName": "让巴尔",
+                    "live2d": [
+                        {
+                            "costumeId": 5,
+                            "costumeName": "灯映星展",
+                            "path": "https://static.l2d.su/live2d/azurlane/rangbaer_5/rangbaer_5.model3.json"
+                        },
+                        {
+                            "costumeId": 3,
+                            "costumeName": "秘密的Après midi",
+                            "path": "https://static.l2d.su/live2d/azurlane/rangbaer_3/rangbaer_3.model3.json"
+                        },
+                        {
+                            "costumeId": 4,
+                            "costumeName": "舶刀Première neige",
+                            "path": "https://static.l2d.su/live2d/azurlane/rangbaer_4/rangbaer_4.model3.json"
+                        }
+                    ]
+                },
+                 {
+                    "charId": 130,
+                    "charName": "美因茨",
+                    "live2d": [
+                        {
+                            "costumeId": 3,
+                            "costumeName": "静雅之所的安逸",
+                            "path": "https://static.l2d.su/live2d/azurlane/meiyinci_3/meiyinci_3.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 129,
+                    "charName": "建武",
+                    "live2d": [
+                        {
+                            "costumeId": 2,
+                            "costumeName": "妆点，只为今夜",
+                            "path": "https://static.l2d.su/live2d/azurlane/jianwu_2/jianwu_2.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 22,
+                    "charName": "布雷斯特",
+                    "live2d": [
+                        {
+                            "costumeId": 3,
+                            "costumeName": "良夜春景",
+                            "path": "https://static.l2d.su/live2d/azurlane/buleisite_3/buleisite_3.model3.json"
+                        },
+                        {
+                            "costumeId": 2,
+                            "costumeName": "沧海织歌",
+                            "path": "https://static.l2d.su/live2d/azurlane/buleisite_2/buleisite_2.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 87,
+                    "charName": "信浓（鵗）",
+                    "live2d": [
+                        {
+                            "costumeId": 5,
+                            "costumeName": "幻梦奇术",
+                            "path": "https://static.l2d.su/live2d/azurlane/xinnong_5/xinnong_5.model3.json"
+                        },
+                        {
+                            "costumeId": 4,
+                            "costumeName": "白沙幽梦",
+                            "path": "https://static.l2d.su/live2d/azurlane/xinnong_4/xinnong_4.model3.json"
+                        },
+                        {
+                            "costumeId": 3,
+                            "costumeName": "轰鸣的银轮",
+                            "path": "https://static.l2d.su/live2d/azurlane/xinnong_3/xinnong_3.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 127,
+                    "charName": "纳希莫夫",
+                    "live2d": [
+                        {
+                            "costumeId": 2,
+                            "costumeName": "聚光灯下的初体验",
+                            "path": "https://static.l2d.su/live2d/azurlane/naximofu_2/naximofu_2.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 128,
+                    "charName": "那不勒斯",
+                    "live2d": [
+                        {
+                            "costumeId": 2,
+                            "costumeName": "Dreamy Night",
+                            "path": "https://static.l2d.su/live2d/azurlane/nabulesi_2/nabulesi_2.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 5,
+                    "charName": "埃吉尔",
+                    "live2d": [
+                        {
+                            "costumeId": 4,
+                            "costumeName": "私密闲暇时",
+                            "path": "https://static.l2d.su/live2d/azurlane/aijier_4/aijier_4.model3.json"
+                        },
+                        {
+                            "costumeId": 2,
+                            "costumeName": "港区的龙女仆",
+                            "path": "https://static.l2d.su/live2d/azurlane/aijier_2/aijier_2.model3.json"
+                        },
+                        {
+                            "costumeId": 3,
+                            "costumeName": "金龙腾祥云",
+                            "path": "https://static.l2d.su/live2d/azurlane/aijier_3/aijier_3.model3.json"
+                        }
+                        
+                    ]
+                },
+                {
+                    "charId": 18,
+                    "charName": "俾斯麦",
+                    "live2d": [
+                        {
+                            "costumeId": 4,
+                            "costumeName": "未完成的圣诞惊喜",
+                            "path": "https://static.l2d.su/live2d/azurlane/bisimai_4/bisimai_4.model3.json"
+                        },
+                        {
+                            "costumeId": 2,
+                            "costumeName": "铁血的辉光",
+                            "path": "https://static.l2d.su/live2d/azurlane/bisimai_2/bisimai_2.model3.json"
+                        }
+                       
+                    ]
+                },
+                {
+                    "charId": 126,
+                    "charName": "弗里茨·鲁梅",
+                    "live2d": [
+                        {
+                            "costumeId": 2,
+                            "costumeName": "Schwarzes Kaninchen",
+                            "path": "https://static.l2d.su/live2d/azurlane/fulici_2/fulici_2.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 125,
+                    "charName": "尾张（鳂）",
+                    "live2d": [
+                        {
+                            "costumeId": 3,
+                            "costumeName": "愿望为“爱”",
+                            "path": "https://static.l2d.su/live2d/azurlane/weizhang_3/weizhang_3.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 124,
+                    "charName": "武藏（鳄）",
+                    "live2d": [
+                        {
+                            "costumeId": 3,
+                            "costumeName": "堇色兔的狙击游戏",
+                            "path": "https://static.l2d.su/live2d/azurlane/wuzang_3/wuzang_3.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 79,
+                    "charName": "天狼星",
+                    "live2d": [
+                        {
+                            "costumeId": 5,
+                            "costumeName": "至高乐园的白兔",
+                            "path": "https://static.l2d.su/live2d/azurlane/tianlangxing_5/tianlangxing_5.model3.json"
+                        },
+                        {
+                            "costumeId": 3,
+                            "costumeName": "盛夏的Seirios",
+                            "path": "https://static.l2d.su/live2d/azurlane/tianlangxing_3/tianlangxing_3.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 78,
+                    "charName": "天城（鳐）",
+                    "live2d": [
+                        {
+                            "costumeId": 2,
+                            "costumeName": "落于王座之花",
+                            "path": "https://static.l2d.su/live2d/azurlane/tiancheng_cv_2/tiancheng_cv_2.model3.json"
+                        },
+                        {
+                            "costumeId": 3,
+                            "costumeName": "红鸢的闲暇时刻",
+                            "path": "https://static.l2d.su/live2d/azurlane/tiancheng_3/tiancheng_3.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 123,
+                    "charName": "渡良濑（獭）",
+                    "live2d": [
+                        {
+                            "costumeId": 2,
+                            "costumeName": "不会消失的换装魔法",
+                            "path": "https://static.l2d.su/live2d/azurlane/dulianglai_2/dulianglai_2.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 122,
+                    "charName": "匹兹堡",
+                    "live2d": [
+                        {
+                            "costumeId": 2,
+                            "costumeName": "斟酒女郎的赌局",
+                            "path": "https://static.l2d.su/live2d/azurlane/pizibao_2/pizibao_2.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 121,
+                    "charName": "腓特烈大帝",
+                    "live2d": [
+                        {
+                            "costumeId": 3,
+                            "costumeName": "相会于盛夏之夜",
+                            "path": "https://static.l2d.su/live2d/azurlane/feiteliedadi_3/feiteliedadi_3.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 120,
+                    "charName": "伴尔维",
+                    "live2d": [
+                        {
+                            "costumeId": 3,
+                            "costumeName": "清凉的甜蜜滋味",
+                            "path": "https://static.l2d.su/live2d/azurlane/banerwei_3/banerwei_3.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 119,
+                    "charName": "斯特拉斯堡",
+                    "live2d": [
+                        {
+                            "costumeId": 2,
+                            "costumeName": "赛场上的电子妖精",
+                            "path": "https://static.l2d.su/live2d/azurlane/sitelasibao_2/sitelasibao_2.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 118,
+                    "charName": "霞飞",
+                    "live2d": [
+                        {
+                            "costumeId": 4,
+                            "costumeName": "祝福的起步冲刺",
+                            "path": "https://static.l2d.su/live2d/azurlane/xiafei_4/xiafei_4.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 117,
+                    "charName": "光辉",
+                    "live2d": [
+                        {
+                            "costumeId": 7,
+                            "costumeName": "二人的学习时间",
+                            "path": "https://static.l2d.su/live2d/azurlane/guanghui_7/guanghui_7.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 23,
+                    "charName": "柴郡",
+                    "live2d": [
+                        {
+                            "costumeId": 5,
+                            "costumeName": "绚烂夜梦",
+                            "path": "https://static.l2d.su/live2d/azurlane/chaijun_5/chaijun_5.model3.json"
+                        },
+                        {
+                            "costumeId": 3,
+                            "costumeName": "音乐绚烂CaitSith",
+                            "path": "https://static.l2d.su/live2d/azurlane/chaijun_3/chaijun_3.model3.json"
+                        },
+                        {
+                            "costumeId": 4,
+                            "costumeName": "冰雪公主",
+                            "path": "https://static.l2d.su/live2d/azurlane/chaijun_4/chaijun_4.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 2,
+                    "charName": "阿达尔伯特亲王",
+                    "live2d": [
+                        {
+                            "costumeId": 3,
+                            "costumeName": "浴室中的小小意外",
+                            "path": "https://static.l2d.su/live2d/azurlane/adaerbote_3/adaerbote_3.model3.json"
+                        },
+                        {
+                            "costumeId": 4,
+                            "costumeName": "浴室中的小小意外(去泡沫版)",
+                            "path": "https://static.l2d.su/live2d/azurlane/adaerbote_3_fhx/adaerbote_3.model3.json"
+                        },
+                        {
+                            "costumeId": 2,
+                            "costumeName": "闭店后的特别时光",
+                            "path": "https://static.l2d.su/live2d/azurlane/adaerbote_2/adaerbote_2.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 74,
+                    "charName": "圣路易斯",
+                    "live2d": [
+                        {
+                            "costumeId": 5,
+                            "costumeName": "邮轮上的诱人午后",
+                            "path": "https://static.l2d.su/live2d/azurlane/shengluyisi_5/shengluyisi_5.model3.json"
+                        },
+                        {
+                            "costumeId": 3,
+                            "costumeName": "雪下之饮",
+                            "path": "https://static.l2d.su/live2d/azurlane/shengluyisi_3/shengluyisi_3.model3.json"
+                        },
+                        {
+                            "costumeId": 4,
+                            "costumeName": "Luxury Handle",
+                            "path": "https://static.l2d.su/live2d/azurlane/shengluyisi_4/shengluyisi_4.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 115,
+                    "charName": "阿尔萨斯",
+                    "live2d": [
+                        {
+                            "costumeId": 2,
+                            "costumeName": "盛夏的圣迹",
+                            "path": "https://static.l2d.su/live2d/azurlane/aersasi_2/aersasi_2.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 114,
+                    "charName": "可畏",
+                    "live2d": [
+                        {
+                            "costumeId": 4,
+                            "costumeName": "值日时的春心萌动",
+                            "path": "https://static.l2d.su/live2d/azurlane/kewei_4/kewei_4.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 113,
+                    "charName": "德文郡",
+                    "live2d": [
+                        {
+                            "costumeId": 2,
+                            "costumeName": "红月下的恶魔",
+                            "path": "https://static.l2d.su/live2d/azurlane/dewenjun_2/dewenjun_2.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 112,
+                    "charName": "苏维埃萨尤斯",
+                    "live2d": [
+                        {
+                            "costumeId": 2,
+                            "costumeName": "天幕危机",
+                            "path": "https://static.l2d.su/live2d/azurlane/suweiaitongmeng_2/suweiaitongmeng_2.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 6,
+                    "charName": "艾伦·萨姆纳",
+                    "live2d": [
+                        {
+                            "costumeId": 3,
+                            "costumeName": "双面侠盗",
+                            "path": "https://static.l2d.su/live2d/azurlane/ailunsamuna_3/ailunsamuna_3.model3.json"
+                        },
+                        {
+                            "costumeId": 2,
+                            "costumeName": "Charming Rabbit",
+                            "path": "https://static.l2d.su/live2d/azurlane/ailunsamuna_2/ailunsamuna_2.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 10,
+                    "charName": "安克雷奇",
+                    "live2d": [
+                        {
+                            "costumeId": 3,
+                            "costumeName": "舟畔共明月",
+                            "path": "https://static.l2d.su/live2d/azurlane/ankeleiqi_3/ankeleiqi_3.model3.json"
+                        },
+                        {
+                            "costumeId": 2,
+                            "costumeName": "海豚、海洋、游泳课",
+                            "path": "https://static.l2d.su/live2d/azurlane/ankeleiqi_2/ankeleiqi_2.model3.json"
+                        }
+                        
+                    ]
+                },
+                {
+                    "charId": 111,
+                    "charName": "阿尔比恩",
+                    "live2d": [
+                        {
+                            "costumeId": 3,
+                            "costumeName": "香气来朱阁",
+                            "path": "https://static.l2d.su/live2d/azurlane/aerbien_3/aerbien_3.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 110,
+                    "charName": "英仙座",
+                    "live2d": [
+                        {
+                            "costumeId": 2,
+                            "costumeName": "慵懒的春光",
+                            "path": "https://static.l2d.su/live2d/azurlane/yingxianzuo_3/yingxianzuo_3.model3.json"
+                        }
+                    ]
+                },
+                 {
+                    "charId": 109,
+                    "charName": "龙武",
+                    "live2d": [
+                        {
+                            "costumeId": 2,
+                            "costumeName": "腾龙新春宴",
+                            "path": "https://static.l2d.su/live2d/azurlane/longwu_2/longwu_2.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 108,
+                    "charName": "奇尔沙治",
+                    "live2d": [
+                        {
+                            "costumeId": 2,
+                            "costumeName": "Allnight Charge",
+                            "path": "https://static.l2d.su/live2d/azurlane/qiershazhi_2/qiershazhi_2.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 107,
+                    "charName": "风云（枟）",
+                    "live2d": [
+                        {
+                            "costumeId": 4,
+                            "costumeName": "热茶与女仆修行",
+                            "path": "https://static.l2d.su/live2d/azurlane/fengyun_4/fengyun_4.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 106,
+                    "charName": "兴登堡（希尔德加德）",
+                    "live2d": [
+                        {
+                            "costumeId": 2,
+                            "costumeName": "微醺胜负",
+                            "path": "https://static.l2d.su/live2d/azurlane/xingdengbao_2/xingdengbao_2.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 105,
+                    "charName": "拉菲II",
+                    "live2d": [
+                        {
+                            "costumeId": 3,
+                            "costumeName": "睡意满满忙碌DAY",
+                            "path": "https://static.l2d.su/live2d/azurlane/lafeiii_3/lafeiii_3.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 104,
+                    "charName": "关岛",
+                    "live2d": [
+                        {
+                            "costumeId": 2,
+                            "costumeName": "魅力舞台",
+                            "path": "https://static.l2d.su/live2d/azurlane/guandao_2/guandao_2.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 50,
+                    "charName": "克利夫兰",
+                    "live2d": [
+                        {
+                            "costumeId": 8,
+                            "costumeName": "休息室的意外邂逅1",
+                            "path": "https://static.l2d.su/live2d/azurlane/kelifulan_8/kelifulan_8.model3.json"
+                        },
+                        {
+                            "costumeId": 3,
+                            "costumeName": "骑士之夜",
+                            "path": "https://static.l2d.su/live2d/azurlane/kelifulan_3/kelifulan_3.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 103,
+                    "charName": "金鹿号",
+                    "live2d": [
+                        {
+                            "costumeId": 2,
+                            "costumeName": "古堡中的恐怖淑女",
+                            "path": "https://static.l2d.su/live2d/azurlane/jinluhao_2/jinluhao_2.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 84,
+                    "charName": "乌尔里希",
+                    "live2d": [
+                        {
+                            "costumeId": 3,
+                            "costumeName": "一骑绝尘",
+                            "path": "https://static.l2d.su/live2d/azurlane/wuerlixi_3/wuerlixi_3.model3.json"
+                        },
+                        {
+                            "costumeId": 2,
+                            "costumeName": "Mädchen Trümmer",
+                            "path": "https://static.l2d.su/live2d/azurlane/wuerlixi_2/wuerlixi_2.model3.json"
+                        }
+                    ]
+                },
+                
+                {
+                    "charId": 97,
+                    "charName": "云仙（猃）",
+                    "live2d": [
+                        {
+                            "costumeId": 2,
+                            "costumeName": "嬉水碧海",
+                            "path": "https://static.l2d.su/live2d/azurlane/yunxian_2/yunxian_2.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 12,
+                    "charName": "白龙（鹫）",
+                    "live2d": [
+                        {
+                            "costumeId": 3,
+                            "costumeName": "丝竹喧阗",
+                            "path": "https://static.l2d.su/live2d/azurlane/bailong_3/bailong_3.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 26,
+                    "charName": "初月（檚）",
+                    "live2d": [
+                        {
+                            "costumeId": 2,
+                            "costumeName": "八月恋夏",
+                            "path": "https://static.l2d.su/live2d/azurlane/chuyue_2/chuyue_2.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 43,
+                    "charName": "樫野（㭴）",
+                    "live2d": [
+                        {
+                            "costumeId": 2,
+                            "costumeName": "温泉放松时间",
+                            "path": "https://static.l2d.su/live2d/azurlane/jianye_2/jianye_2.model3.json"
+                        },
+                        {
+                            "costumeId": 3,
+                            "costumeName": "绊倒的迷糊女仆",
+                            "path": "https://static.l2d.su/live2d/azurlane/jianye_3/jianye_3.model3.json"
+                        },
+                        {
+                            "costumeId": 4,
+                            "costumeName": "花绽之乐章",
+                            "path": "https://static.l2d.su/live2d/azurlane/jianye_4/jianye_4.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 1,
+                    "charName": "阿贝克隆比",
+                    "live2d": [
+                        {
+                            "costumeId": 3,
+                            "costumeName": "坏坏兔的恶作剧！",
+                            "path": "https://static.l2d.su/live2d/azurlane/abeikelongbi_3/abeikelongbi_3.model3.json"
+                        }
+                    ]
+                },
+               
+                {
+                    "charId": 3,
+                    "charName": "爱宕",
+                    "live2d": [
+                        {
+                            "costumeId": 2,
+                            "costumeName": "盛夏进行曲",
+                            "path": "https://static.l2d.su/live2d/azurlane/aidang_2/aidang_2.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 4,
+                    "charName": "埃尔德里奇",
+                    "live2d": [
+                        {
+                            "costumeId": 4,
+                            "costumeName": "正月的牵手",
+                            "path": "https://static.l2d.su/live2d/azurlane/aierdeliqi_4/aierdeliqi_4.model3.json"
+                        },
+                        {
+                            "costumeId": 5,
+                            "costumeName": "喵喵偶像团1",
+                            "path": "https://static.l2d.su/live2d/azurlane/aierdeliqi_5/aierdeliqi_5.model3.json"
+                        }
+                    ]
+                },
+               
+                {
+                    "charId": 7,
+                    "charName": "埃米尔·贝尔汀",
+                    "live2d": [
+                        {
+                            "costumeId": 2,
+                            "costumeName": "蓝色海岸",
+                            "path": "https://static.l2d.su/live2d/azurlane/aimierbeierding_2/aimierbeierding_2.model3.json"
+                        },
+                        {
+                            "costumeId": 3,
+                            "costumeName": "「女仆」浪漫",
+                            "path": "https://static.l2d.su/live2d/azurlane/aimierbeierding_3/aimierbeierding_3.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 8,
+                    "charName": "埃姆登",
+                    "live2d": [
+                        {
+                            "costumeId": 2,
+                            "costumeName": "黑白的夜之主",
+                            "path": "https://static.l2d.su/live2d/azurlane/aimudeng_2/aimudeng_2.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 9,
+                    "charName": "埃塞克斯",
+                    "live2d": [
+                        {
+                            "costumeId": 4,
+                            "costumeName": "Craft fairytail",
+                            "path": "https://static.l2d.su/live2d/azurlane/aisaikesi_4/aisaikesi_4.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 11,
+                    "charName": "巴尔的摩",
+                    "live2d": [
+                        {
+                            "costumeId": 5,
+                            "costumeName": "夜风minuet",
+                            "path": "https://static.l2d.su/live2d/azurlane/baerdimo_5/baerdimo_5.model3.json"
+                        },
+                        {
+                            "costumeId": 6,
+                            "costumeName": "迅疾的蓝星",
+                            "path": "https://static.l2d.su/live2d/azurlane/baerdimo_6/baerdimo_6.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 13,
+                    "charName": "半人马",
+                    "live2d": [
+                        {
+                            "costumeId": 2,
+                            "costumeName": "沙滨的水之精灵",
+                            "path": "https://static.l2d.su/live2d/azurlane/banrenma_2/banrenma_2.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 14,
+                    "charName": "北安普敦ll",
+                    "live2d": [
+                        {
+                            "costumeId": 2,
+                            "costumeName": "竞泳之星",
+                            "path": "https://static.l2d.su/live2d/azurlane/beianpudunii_2/beianpudunii_2.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 15,
+                    "charName": "贝尔法斯特",
+                    "live2d": [
+                        {
+                            "costumeId": 2,
+                            "costumeName": "彩云之玫瑰",
+                            "path": "https://static.l2d.su/live2d/azurlane/beierfasite_2/beierfasite_2.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 16,
+                    "charName": "北卡罗来纳",
+                    "live2d": [
+                        {
+                            "costumeId": 2,
+                            "costumeName": "秘密的换装练习1",
+                            "path": "https://static.l2d.su/live2d/azurlane/beikaluolaina_2/beikaluolaina_2.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 17,
+                    "charName": "标枪",
+                    "live2d": [
+                        {
+                            "costumeId": 3,
+                            "costumeName": "沙滩野餐会",
+                            "path": "https://static.l2d.su/live2d/azurlane/biaoqiang_3/biaoqiang_3.model3.json"
+                        }
+                    ]
+                },
+                
+                {
+                    "charId": 19,
+                    "charName": "波拉",
+                    "live2d": [
+                        {
+                            "costumeId": 2,
+                            "costumeName": "水边的事故1",
+                            "path": "https://static.l2d.su/live2d/azurlane/bola_2/bola_2.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 20,
+                    "charName": "博伊西",
+                    "live2d": [
+                        {
+                            "costumeId": 2,
+                            "costumeName": "羞怯的蓝宝石",
+                            "path": "https://static.l2d.su/live2d/azurlane/boyixi_2/boyixi_2.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 21,
+                    "charName": "布莱默顿",
+                    "live2d": [
+                        {
+                            "costumeId": 2,
+                            "costumeName": "Happy Dating！",
+                            "path": "https://static.l2d.su/live2d/azurlane/bulaimodun_2/bulaimodun_2.model3.json"
+                        },
+                        {
+                            "costumeId": 4,
+                            "costumeName": "功夫少女！",
+                            "path": "https://static.l2d.su/live2d/azurlane/bulaimodun_4/bulaimodun_4.model3.json"
+                        },
+                        {
+                            "costumeId": 5,
+                            "costumeName": "悠然放松时光",
+                            "path": "https://static.l2d.su/live2d/azurlane/bulaimodun_5/bulaimodun_5.model3.json"
+                        }
+                    ]
+                },
+                
+                
+                {
+                    "charId": 24,
+                    "charName": "赤城",
+                    "live2d": [
+                        {
+                            "costumeId": 5,
+                            "costumeName": "朝凰来仪",
+                            "path": "https://static.l2d.su/live2d/azurlane/chicheng_5/chicheng_5.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 25,
+                    "charName": "吹雪",
+                    "live2d": [
+                        {
+                            "costumeId": 3,
+                            "costumeName": "Music Pixy",
+                            "path": "https://static.l2d.su/live2d/azurlane/chuixue_3/chuixue_3.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 27,
+                    "charName": "大凤",
+                    "live2d": [
+                        {
+                            "costumeId": 2,
+                            "costumeName": "毒苹果",
+                            "path": "https://static.l2d.su/live2d/azurlane/dafeng_2/dafeng_2.model3.json"
+                        },
+                        {
+                            "costumeId": 3,
+                            "costumeName": "放学后的甜蜜时光",
+                            "path": "https://static.l2d.su/live2d/azurlane/dafeng_3/dafeng_3.model3.json"
+                        },
+                        {
+                            "costumeId": 4,
+                            "costumeName": "凤鸣春晓",
+                            "path": "https://static.l2d.su/live2d/azurlane/dafeng_4/dafeng_4.model3.json"
+                        },
+                        {
+                            "costumeId": 6,
+                            "costumeName": "海滨的白日美梦",
+                            "path": "https://static.l2d.su/live2d/azurlane/dafeng_6/dafeng_6.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 28,
+                    "charName": "岛风",
+                    "live2d": [
+                        {
+                            "costumeId": 4,
+                            "costumeName": "最速兔兔的邀请函(1)",
+                            "path": "https://static.l2d.su/live2d/azurlane/daofeng_4/daofeng_4.model3.json"
+                        },
+                        {
+                            "costumeId": 5,
+                            "costumeName": "不思议国度的白兔",
+                            "path": "https://static.l2d.su/live2d/azurlane/daofeng_5/daofeng_5.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 29,
+                    "charName": "德意志",
+                    "live2d": [
+                        {
+                            "costumeId": 3,
+                            "costumeName": "艳阳下的“福利”时间",
+                            "path": "https://static.l2d.su/live2d/azurlane/deyizhi_3/deyizhi_3.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 30,
+                    "charName": "独角兽",
+                    "live2d": [
+                        {
+                            "costumeId": 4,
+                            "costumeName": "憧憬的约会日",
+                            "path": "https://static.l2d.su/live2d/azurlane/dujiaoshou_4/dujiaoshou_4.model3.json"
+                        },
+                        {
+                            "costumeId": 6,
+                            "costumeName": "天使的My Night",
+                            "path": "https://static.l2d.su/live2d/azurlane/dujiaoshou_6/dujiaoshou_6.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 31,
+                    "charName": "敦刻尔克",
+                    "live2d": [
+                        {
+                            "costumeId": 2,
+                            "costumeName": "甜蜜夏日",
+                            "path": "https://static.l2d.su/live2d/azurlane/dunkeerke_2/dunkeerke_2.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 32,
+                    "charName": "恶毒",
+                    "live2d": [
+                        {
+                            "costumeId": 3,
+                            "costumeName": "懒懒的星期天",
+                            "path": "https://static.l2d.su/live2d/azurlane/edu_3/edu_3.model3.json"
+                        },
+                        {
+                            "costumeId": 4,
+                            "costumeName": "懒懒的白兔",
+                            "path": "https://static.l2d.su/live2d/azurlane/edu_4/edu_4.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 33,
+                    "charName": "戈里齐亚",
+                    "live2d": [
+                        {
+                            "costumeId": 2,
+                            "costumeName": "办公室的“隔阂”",
+                            "path": "https://static.l2d.su/live2d/azurlane/geliqiya_2/geliqiya_2.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 34,
+                    "charName": "格奈森瑙",
+                    "live2d": [
+                        {
+                            "costumeId": 2,
+                            "costumeName": "梦魇魅影",
+                            "path": "https://static.l2d.su/live2d/azurlane/genaisennao_2/genaisennao_2.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 35,
+                    "charName": "光荣",
+                    "live2d": [
+                        {
+                            "costumeId": 3,
+                            "costumeName": "凉夜香雪",
+                            "path": "https://static.l2d.su/live2d/azurlane/guangrong_3/guangrong_3.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 36,
+                    "charName": "海伦娜",
+                    "live2d": [
+                        {
+                            "costumeId": 4,
+                            "costumeName": "耀眼的波纹",
+                            "path": "https://static.l2d.su/live2d/azurlane/hailunna_4/hailunna_4.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 37,
+                    "charName": "海因里希亲王",
+                    "live2d": [
+                        {
+                            "costumeId": 2,
+                            "costumeName": "泳池边的救生兔1",
+                            "path": "https://static.l2d.su/live2d/azurlane/haiyinlixi_2/haiyinlixi_2.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 38,
+                    "charName": "黑太子",
+                    "live2d": [
+                        {
+                            "costumeId": 2,
+                            "costumeName": "White Princess",
+                            "path": "https://static.l2d.su/live2d/azurlane/heitaizi_2/heitaizi_2.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 39,
+                    "charName": "赫敏",
+                    "live2d": [
+                        {
+                            "costumeId": 2,
+                            "costumeName": "纯白的悠闲假日",
+                            "path": "https://static.l2d.su/live2d/azurlane/hemin_2/hemin_2.model3.json"
+                        },
+                        {
+                            "costumeId": 3,
+                            "costumeName": "温柔的纯白天使",
+                            "path": "https://static.l2d.su/live2d/azurlane/hemin_3/hemin_3.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 40,
+                    "charName": "皇家方舟",
+                    "live2d": [
+                        {
+                            "costumeId": 3,
+                            "costumeName": "晚会的守护者",
+                            "path": "https://static.l2d.su/live2d/azurlane/huangjiafangzhou_3/huangjiafangzhou_3.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 41,
+                    "charName": "波火奴鲁鲁",
+                    "live2d": [
+                        {
+                            "costumeId": 3,
+                            "costumeName": "盛夏的「灾难」",
+                            "path": "https://static.l2d.su/live2d/azurlane/huonululu_3/huonululu_3.model3.json"
+                        },
+                        {
+                            "costumeId": 5,
+                            "costumeName": "两人的夏日祭",
+                            "path": "https://static.l2d.su/live2d/azurlane/huonululu_5/huonululu_5.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 42,
+                    "charName": "拉·加利索尼埃",
+                    "live2d": [
+                        {
+                            "costumeId": 3,
+                            "costumeName": "黑猫与南瓜之夜",
+                            "path": "https://static.l2d.su/live2d/azurlane/jialisuoniye_3/jialisuoniye_3.model3.json"
+                        },
+                        {
+                            "costumeId": 4,
+                            "costumeName": "春晓醉梦",
+                            "path": "https://static.l2d.su/live2d/azurlane/jialisuoniye_4/jialisuoniye_4.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 44,
+                    "charName": "基洛夫",
+                    "live2d": [
+                        {
+                            "costumeId": 2,
+                            "costumeName": "疾速截击",
+                            "path": "https://static.l2d.su/live2d/azurlane/jiluofu_3/jiluofu_3.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 45,
+                    "charName": "酒匂（貄）",
+                    "live2d": [
+                        {
+                            "costumeId": 2,
+                            "costumeName": "团子的诱惑",
+                            "path": "https://static.l2d.su/live2d/azurlane/jiuyun_2/jiuyun_2.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 46,
+                    "charName": "骏河（鲪）",
+                    "live2d": [
+                        {
+                            "costumeId": 4,
+                            "costumeName": "“不情愿”的圣诞祭",
+                            "path": "https://static.l2d.su/live2d/azurlane/junhe_4/junhe_4.model3.json"
+                        },
+                        {
+                            "costumeId": 5,
+                            "costumeName": "百花庆云",
+                            "path": "https://static.l2d.su/live2d/azurlane/junhe_5/junhe_5.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 47,
+                    "charName": "喀琅施塔得",
+                    "live2d": [
+                        {
+                            "costumeId": 2,
+                            "costumeName": "突击行动开始！",
+                            "path": "https://static.l2d.su/live2d/azurlane/kalangshitade_2/kalangshitade_2.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 48,
+                    "charName": "卡律布狄斯",
+                    "live2d": [
+                        {
+                            "costumeId": 2,
+                            "costumeName": "治愈的红闺",
+                            "path": "https://static.l2d.su/live2d/azurlane/kalvbudisi_2/kalvbudisi_2.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 49,
+                    "charName": "克莱蒙梭",
+                    "live2d": [
+                        {
+                            "costumeId": 2,
+                            "costumeName": "金日旭凤",
+                            "path": "https://static.l2d.su/live2d/azurlane/kelaimengsuo_2/kelaimengsuo_2.model3.json"
+                        }
+                    ]
+                },
+        
+                {
+                    "charId": 51,
+                    "charName": "库珀",
+                    "live2d": [
+                        {
+                            "costumeId": 2,
+                            "costumeName": "烈日的网球场",
+                            "path": "https://static.l2d.su/live2d/azurlane/kubo_2/kubo_2.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 52,
+                    "charName": "库尔斯克",
+                    "live2d": [
+                        {
+                            "costumeId": 2,
+                            "costumeName": "雾中雪狼",
+                            "path": "https://static.l2d.su/live2d/azurlane/kuersike_2/kuersike_2.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 53,
+                    "charName": "波拉菲",
+                    "live2d": [
+                        {
+                            "costumeId": 4,
+                            "costumeName": "白兔迎春",
+                            "path": "https://static.l2d.su/live2d/azurlane/lafei_4/lafei_4.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 54,
+                    "charName": "雷根斯堡（瑞吉娜）",
+                    "live2d": [
+                        {
+                            "costumeId": 2,
+                            "costumeName": "暗之龙，光之岸",
+                            "path": "https://static.l2d.su/live2d/azurlane/leigensibao_2/leigensibao_2.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 55,
+                    "charName": "绫波（柚）",
+                    "live2d": [
+                        {
+                            "costumeId": 10,
+                            "costumeName": "黯然礼装",
+                            "path": "https://static.l2d.su/live2d/azurlane/lingbo_10/lingbo_10.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 56,
+                    "charName": "里诺",
+                    "live2d": [
+                        {
+                            "costumeId": 3,
+                            "costumeName": "bunny·reno！",
+                            "path": "https://static.l2d.su/live2d/azurlane/linuo_3/linuo_3.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 57,
+                    "charName": "黎塞留",
+                    "live2d": [
+                        {
+                            "costumeId": 2,
+                            "costumeName": "潮风的Fleuron",
+                            "path": "https://static.l2d.su/live2d/azurlane/lisailiu_2/lisailiu_2.model3.json"
+                        },
+                        {
+                            "costumeId": 3,
+                            "costumeName": "常绿Rêve Praphétique",
+                            "path": "https://static.l2d.su/live2d/azurlane/lisailiu_3/lisailiu_3.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 58,
+                    "charName": "龙凤",
+                    "live2d": [
+                        {
+                            "costumeId": 2,
+                            "costumeName": "凤舞新年",
+                            "path": "https://static.l2d.su/live2d/azurlane/longfeng_2/longfeng_2.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 59,
+                    "charName": "罗恩",
+                    "live2d": [
+                        {
+                            "costumeId": 4,
+                            "costumeName": "苍翠的安眠曲",
+                            "path": "https://static.l2d.su/live2d/azurlane/luoen_4/luoen_4.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 60,
+                    "charName": "罗马",
+                    "live2d": [
+                        {
+                            "costumeId": 2,
+                            "costumeName": "午夜的白天鹅",
+                            "path": "https://static.l2d.su/live2d/azurlane/luoma_2/luoma_2.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 61,
+                    "charName": "波鲁普雷希特亲王",
+                    "live2d": [
+                        {
+                            "costumeId": 2,
+                            "costumeName": "腾龙戏春1",
+                            "path": "https://static.l2d.su/live2d/azurlane/lupuleixite_2/lupuleixite_2.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 62,
+                    "charName": "路易九世",
+                    "live2d": [
+                        {
+                            "costumeId": 2,
+                            "costumeName": "华服的圣骑士",
+                            "path": "https://static.l2d.su/live2d/azurlane/luyijiushi_2/luyijiushi_2.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 63,
+                    "charName": "吕佐夫",
+                    "live2d": [
+                        {
+                            "costumeId": 2,
+                            "costumeName": "永夜的赤之贵族",
+                            "path": "https://static.l2d.su/live2d/azurlane/lvzuofu_2/lvzuofu_2.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 64,
+                    "charName": "玛莉萝丝",
+                    "live2d": [
+                        {
+                            "costumeId": 3,
+                            "costumeName": "热气腾腾的女神",
+                            "path": "https://static.l2d.su/live2d/azurlane/maliluosi_3_doa/maliluosi_3_doa.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 65,
+                    "charName": "能代（貅）",
+                    "live2d": [
+                        {
+                            "costumeId": 2,
+                            "costumeName": "祭典的秘境1",
+                            "path": "https://static.l2d.su/live2d/azurlane/nengdai_2/nengdai_2.model3.json"
+                        },
+                        {
+                            "costumeId": 3,
+                            "costumeName": "阳光·沙滩·假日",
+                            "path": "https://static.l2d.su/live2d/azurlane/nengdai_3/nengdai_3.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 66,
+                    "charName": "宁海",
+                    "live2d": [
+                        {
+                            "costumeId": 4,
+                            "costumeName": "东煌姐妹！·N",
+                            "path": "https://static.l2d.su/live2d/azurlane/ninghai_4/ninghai_4.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 67,
+                    "charName": "欧根亲王",
+                    "live2d": [
+                        {
+                            "costumeId": 5,
+                            "costumeName": "Final Lap",
+                            "path": "https://static.l2d.su/live2d/azurlane/ougen_5/ougen_5.model3.json"
+                        },
+                        {
+                            "costumeId": 6,
+                            "costumeName": "沉醉于夜",
+                            "path": "https://static.l2d.su/live2d/azurlane/ougen_6/ougen_6.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 68,
+                    "charName": "欧若拉",
+                    "live2d": [
+                        {
+                            "costumeId": 4,
+                            "costumeName": "渝城秘技",
+                            "path": "https://static.l2d.su/live2d/azurlane/ouruola_4/ouruola_4.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 69,
+                    "charName": "平海",
+                    "live2d": [
+                        {
+                            "costumeId": 4,
+                            "costumeName": "东煌姐妹！·P",
+                            "path": "https://static.l2d.su/live2d/azurlane/pinghai_4/pinghai_4.model3.json"
+                        },
+                        {
+                            "costumeId": 6,
+                            "costumeName": "甜蜜嫣红",
+                            "path": "https://static.l2d.su/live2d/azurlane/pinghai_6/pinghai_6.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 70,
+                    "charName": "前卫",
+                    "live2d": [
+                        {
+                            "costumeId": 2,
+                            "costumeName": "摇摆不定的伪装",
+                            "path": "https://static.l2d.su/live2d/azurlane/qianwei_2/qianwei_2.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 71,
+                    "charName": "齐柏林伯爵",
+                    "live2d": [
+                        {
+                            "costumeId": 2,
+                            "costumeName": "沙滩上的乌尔德",
+                            "path": "https://static.l2d.su/live2d/azurlane/qibolin_2/qibolin_2.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 72,
+                    "charName": "企业",
+                    "live2d": [
+                        {
+                            "costumeId": 7,
+                            "costumeName": "Wind Catcher",
+                            "path": "https://static.l2d.su/live2d/azurlane/qiye_7/qiye_7.model3.json"
+                        },
+                        {
+                            "costumeId": 9,
+                            "costumeName": "天际的潜水者",
+                            "path": "https://static.l2d.su/live2d/azurlane/qiye_9/qiye_9.model3.json"
+                        }
+                    ]
+                },
+
+                {
+                    "charId": 75,
+                    "charName": "彼得·史特拉塞",
+                    "live2d": [
+                        {
+                            "costumeId": 2,
+                            "costumeName": "节庆的Chronos",
+                            "path": "https://static.l2d.su/live2d/azurlane/shitelasai_2/shitelasai_2.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 76,
+                    "charName": "斯佩伯爵海军上将",
+                    "live2d": [
+                        {
+                            "costumeId": 5,
+                            "costumeName": "铁血♥最可爱",
+                            "path": "https://static.l2d.su/live2d/azurlane/sipeibojue_5/sipeibojue_5.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 77,
+                    "charName": "太原",
+                    "live2d": [
+                        {
+                            "costumeId": 2,
+                            "costumeName": "金蛇闹春",
+                            "path": "https://static.l2d.su/live2d/azurlane/taiyuan_2/taiyuan_2.model3.json"
+                        }
+                    ]
+                },
+                
+                {
+                    "charId": 80,
+                    "charName": "提尔比茨",
+                    "live2d": [
+                        {
+                            "costumeId": 2,
+                            "costumeName": "冰雪消融的夏日",
+                            "path": "https://static.l2d.su/live2d/azurlane/tierbici_2/tierbici_2.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 81,
+                    "charName": "维托里奥·维内托",
+                    "live2d": [
+                        {
+                            "costumeId": 2,
+                            "costumeName": "拉斯佩齐亚之花",
+                            "path": "https://static.l2d.su/live2d/azurlane/weineituo_2/weineituo_2.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 82,
+                    "charName": "威悉",
+                    "live2d": [
+                        {
+                            "costumeId": 2,
+                            "costumeName": "黯调铅华",
+                            "path": "https://static.l2d.su/live2d/azurlane/weixi_2/weixi_2.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 83,
+                    "charName": "威严",
+                    "live2d": [
+                        {
+                            "costumeId": 2,
+                            "costumeName": "囚牢里的危险兔",
+                            "path": "https://static.l2d.su/live2d/azurlane/weiyan_2/weiyan_2.model3.json"
+                        },
+                        {
+                            "costumeId": 4,
+                            "costumeName": "突袭！黑暗基地！",
+                            "path": "https://static.l2d.su/live2d/azurlane/weiyan_4/weiyan_4.model3.json"
+                        },
+                        {
+                            "costumeId": 6,
+                            "costumeName": "野兔和蒸汽房",
+                            "path": "https://static.l2d.su/live2d/azurlane/weiyan_6/weiyan_6.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 85,
+                    "charName": "吾妻",
+                    "live2d": [
+                        {
+                            "costumeId": 2,
+                            "costumeName": "细语春霞",
+                            "path": "https://static.l2d.su/live2d/azurlane/wuqi_2/wuqi_2.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 86,
+                    "charName": "翔鹤",
+                    "live2d": [
+                        {
+                            "costumeId": 2,
+                            "costumeName": "散花舞鹤",
+                            "path": "https://static.l2d.su/live2d/azurlane/xianghe_2/xianghe_2.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 88,
+                    "charName": "新泽西（花园）",
+                    "live2d": [
+                        {
+                            "costumeId": 3,
+                            "costumeName": "盛夏的闲暇",
+                            "path": "https://static.l2d.su/live2d/azurlane/xinzexi_3/xinzexi_3.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 89,
+                    "charName": "吸血鬼",
+                    "live2d": [
+                        {
+                            "costumeId": 4,
+                            "costumeName": "夜姬的正装1",
+                            "path": "https://static.l2d.su/live2d/azurlane/xixuegui_4/xixuegui_4.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 90,
+                    "charName": "雪风",
+                    "live2d": [
+                        {
+                            "costumeId": 3,
+                            "costumeName": "冬之雪风",
+                            "path": "https://static.l2d.su/live2d/azurlane/xuefeng_3/xuefeng_3.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 91,
+                    "charName": "絮库夫",
+                    "live2d": [
+                        {
+                            "costumeId": 2,
+                            "costumeName": "购物时光！",
+                            "path": "https://static.l2d.su/live2d/azurlane/xukufu_2/xukufu_2.model3.json"
+                        },
+                        {
+                            "costumeId": 3,
+                            "costumeName": "Loisirs balneaires",
+                            "path": "https://static.l2d.su/live2d/azurlane/xukufu_3/xukufu_3.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 92,
+                    "charName": "雅努斯",
+                    "live2d": [
+                        {
+                            "costumeId": 3,
+                            "costumeName": "万圣喵喵惊悚夜",
+                            "path": "https://static.l2d.su/live2d/azurlane/yanusi_3/yanusi_3.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 93,
+                    "charName": "易北",
+                    "live2d": [
+                        {
+                            "costumeId": 3,
+                            "costumeName": "清纯的“反派小姐”1",
+                            "path": "https://static.l2d.su/live2d/azurlane/yibei_3/yibei_3.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 94,
+                    "charName": "伊吹",
+                    "live2d": [
+                        {
+                            "costumeId": 2,
+                            "costumeName": "永梦的青女",
+                            "path": "https://static.l2d.su/live2d/azurlane/yichui_2/yichui_2.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 95,
+                    "charName": "伊丽莎白",
+                    "live2d": [
+                        {
+                            "costumeId": 6,
+                            "costumeName": "Maid·My·Highness",
+                            "path": "https://static.l2d.su/live2d/azurlane/yilishabai_6/yilishabai_6.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 96,
+                    "charName": "应瑞",
+                    "live2d": [
+                        {
+                            "costumeId": 3,
+                            "costumeName": "松戏梅·其上",
+                            "path": "https://static.l2d.su/live2d/azurlane/yingrui_3/yingrui_3.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 98,
+                    "charName": "Z23",
+                    "live2d": [
+                        {
+                            "costumeId": 1,
+                            "costumeName": "z23",
+                            "path": "https://static.l2d.su/live2d/azurlane/z23_hx/z23_hx.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 99,
+                    "charName": "Z46",
+                    "live2d": [
+                        {
+                            "costumeId": 2,
+                            "costumeName": "夏之初体验",
+                            "path": "https://static.l2d.su/live2d/azurlane/z46_2/z46_2.model3.json"
+                        },
+                        {
+                            "costumeId": 3,
+                            "costumeName": "少女的借物竞赛",
+                            "path": "https://static.l2d.su/live2d/azurlane/z46_3/z46_3.model3.json"
+                        },
+                        {
+                            "costumeId": 4,
+                            "costumeName": "未知的闪亮舞台",
+                            "path": "https://static.l2d.su/live2d/azurlane/z46_4/z46_4.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 100,
+                    "charName": "扎拉",
+                    "live2d": [
+                        {
+                            "costumeId": 2,
+                            "costumeName": "泳池边的“偶遇",
+                            "path": "https://static.l2d.su/live2d/azurlane/zhala_2/zhala_2.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 101,
+                    "charName": "肇和",
+                    "live2d": [
+                        {
+                            "costumeId": 3,
+                            "costumeName": "松戏梅·其下",
+                            "path": "https://static.l2d.su/live2d/azurlane/zhaohe_3/zhaohe_3.model3.json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "gameId": 2,
+            "gameName": "-------",
+            "character": [
+                {
+                    "charId": 23,
+                    "charName": "圣路易斯",
+                    "live2d": [
+                        {
+                            "costumeId": 5,
+                            "costumeName": "邮轮上的诱人午后",
+                            "path": "https://static.l2d.su/live2d/azurlane/shengluyisi_5/shengluyisi_5.model3.json"
+                        },
+                        {
+                            "costumeId": 3,
+                            "costumeName": "雪下之饮",
+                            "path": "https://static.l2d.su/live2d/azurlane/shengluyisi_3/shengluyisi_3.model3.json"
+                        },
+                        {
+                            "costumeId": 4,
+                            "costumeName": "Luxury Handle",
+                            "path": "https://static.l2d.su/live2d/azurlane/shengluyisi_4/shengluyisi_4.model3.json"
+                        }
+                    ]
+                },
+                {
+                    "charId": 113,
+                    "charName": "德文郡",
+                    "live2d": [
+                        {
+                            "costumeId": 2,
+                            "costumeName": "红月下的恶魔",
+                            "path": "https://static.l2d.su/live2d/azurlane/dewenjun_2/dewenjun_2.model3.json"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+
+}
