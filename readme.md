@@ -1,5 +1,7 @@
 # 碧蓝航线Live2d下载器（Azur Lane  Live2d Downloader）
 
+## 本项目已经暂停维护
+
 ## 项目简介
 
 本项目能从[Live2D Viewer Online](https://static.l2d.su/live2d)中下载碧蓝航线的live2d文件，并且按照角色进行下载文件的组织
